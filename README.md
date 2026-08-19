@@ -1,7 +1,7 @@
 # Bitácora Web 3
 
 ## Descripción
-Repositorio del semestre para Desarrollo Web 3.
+Repositorio oficial del semestre - version maquina A.
 
 ## Bitácora creativa
 - Idea 1: catálogo interactivo de arte.
